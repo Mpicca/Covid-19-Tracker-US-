@@ -3,7 +3,7 @@ Power-BI Dashboard tracking and analyzing Covid-19 cases and deaths in the Unite
 
 
 For interactive public use online please visit the following link below: 
-https://app.powerbi.com/viewr=eyJrIjoiODcwMjlkZWUtYzY4YS00Y2IwLWI1YzYtMTlkOGNlYzlmYTEwIiwidCI6ImY4MTcyNWVhLTE4MDctNGIzNC1hMTliLTkwNjM0YTMzYjE4ZSIsImMiOjZ9
+https://app.powerbi.com/view?r=eyJrIjoiODcwMjlkZWUtYzY4YS00Y2IwLWI1YzYtMTlkOGNlYzlmYTEwIiwidCI6ImY4MTcyNWVhLTE4MDctNGIzNC1hMTliLTkwNjM0YTMzYjE4ZSIsImMiOjZ9
 
 
 Data Sources:
